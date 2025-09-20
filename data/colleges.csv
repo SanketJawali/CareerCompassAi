@@ -1,0 +1,175 @@
+college_name,location,category,contact_number,email,website
+IIT Jammu,Jammu,Engineering,0191-2479330,contact@iitjammu.ac.in,https://iitjammu.ac.in/
+IIM Jammu,Jammu,Management,0191-2430021,contact@iimjammu.ac.in,https://www.iimjammu.ac.in/
+AIIMS Jammu,Jammu,Medical,0191-2439333,contact@aiimsjammu.edu.in,https://www.aiimsjammu.edu.in/
+NIT Srinagar,Srinagar,Engineering,0194-2303001,contact@nitkashmir.ac.in,https://www.nitsri.ac.in/
+SKIMS,Srinagar,Medical,0194-2463333,contact@skims.ac.in,https://www.skims.ac.in/
+GMC Jammu,Jammu,Medical,0191-2472225,gmcjammu@gmail.com,https://www.gmcjammu.in/
+GMC Srinagar,Srinagar,Medical,0194-2311674,gmcsgr@gmail.com,https://www.gmcsrinagar.ac.in/
+SMVDU Katra,Katra,Engineering & Management,01991-285181,smvdu@smvdu.ac.in,https://www.smvdu.ac.in/
+University of Jammu,Jammu,University,0191-2430011,info@ju.ac.in,https://www.jammuuniversity.ac.in/
+University of Kashmir,Srinagar,University,0194-2272047,info@kashmiruniversity.ac.in,https://www.kashmiruniversity.ac.in/
+Central University of Jammu,Jammu,University,0191-2470400,contact@cujammu.ac.in,https://www.cujammu.ac.in/
+Central University of Kashmir,Srinagar,University,0194-2412442,contact@cukashmir.ac.in,https://www.cukashmir.ac.in/
+IUST Awantipora,Awantipora,Engineering & Management,01933-246621,info@iust.ac.in,https://www.iust.ac.in/
+BGSBU Rajouri,Rajouri,University,01962-277019,info@bgsbu.ac.in,https://www.bgsbu.ac.in/
+GCET Jammu,Jammu,Engineering,0191-2470300,principal@gcetjammu.ac.in,https://www.gcetjammu.ac.in/
+MIET Jammu,Jammu,Engineering,0191-2433666,info@mietjammu.in,https://www.mietjammu.in/
+YCET Jammu,Jammu,Engineering,0191-2472020,info@ycetjammu.in,https://www.ycetjammu.in/
+GDC Anantnag,Anantnag,Govt Degree College,01932-222100,principal@gdc-anantnag.edu.in,https://www.gdcanantnag.ac.in/
+GDC Rajouri,Rajouri,Govt Degree College,01962-231225,principal@gdcrajouri.ac.in,https://www.gdcrajouri.ac.in/
+GDC Kathua,Kathua,Govt Degree College,01922-235000,principal@gdckathua.ac.in,https://www.gdckathua.ac.in/
+GDC Baramulla,Baramulla,Govt Degree College,01952-223311,principal@gdcbaramulla.ac.in,https://www.gdcbaramulla.ac.in/
+GDC Ganderbal,Ganderbal,Govt Degree College,0194-2433333,principal@gdcganderbal.ac.in,https://www.gdcganderbal.ac.in/
+Delhi Public Junior College,Jammu,Junior College,0191-2456789,dpjcjammu@gmail.com,https://www.dpjcjammu.in/
+St. Joseph's Higher Secondary School,Srinagar,Junior College,0194-2305678,info@stjosephsksr.ac.in,https://www.stjosephsksr.ac.in/
+Amar Singh College,Srinagar,Govt Degree College,9419064621,principal@amarsinghcollege.ac.in,https://www.amarsinghcollege.ac.in/
+S.P. College,Srinagar,Govt Degree College,9419010839,spcsgr1905@gmail.com,https://www.spc.edu.in/
+IASE Srinagar,Srinagar,Govt Degree College,9419012022,gcoe.sgr@gmail.com,https://www.iase.edu.in/
+Govt Women College M.A. Road,Srinagar,Govt Degree College,9419012127,gcwmaroad@yahoo.in,https://www.gwcma.ac.in/
+GDC Pulwama,Pulwama,Govt Degree College,01933-222555,principal@gdcpulwama.ac.in,https://www.gdcpulwama.ac.in/
+GDC Anantnag,Pulwama,Govt Degree College,01932-223311,principal@gdcanantnag.ac.in,https://www.gdcanantnag.ac.in/
+GDC Kulgam,Kulgam,Govt Degree College,01932-223333,principal@gdckulgam.ac.in,https://www.gdckulgam.ac.in/
+GDC Shopian,Shopian,Govt Degree College,01933-224444,principal@gdcshopian.ac.in,https://www.gdcshopian.ac.in/
+GDC Bandipora,Bandipora,Govt Degree College,01957-222555,principal@gdcbandipora.ac.in,https://www.gdcbandipora.ac.in/
+GDC Kupwara,Kupwara,Govt Degree College,01952-224555,principal@gdckupwara.ac.in,https://www.gdckupwara.ac.in/
+GDC Srinagar,Srinagar,Govt Degree College,0194-2312222,principal@gdcsrinagar.ac.in,https://www.gdcsrinagar.ac.in/
+GDC Jammu,Jammu,Govt Degree College,0191-2433344,principal@gdcjammu.ac.in,https://www.gdcjammu.ac.in/
+GDC Udhampur,Udhampur,Govt Degree College,01992-232333,principal@gdcudhampur.ac.in,https://www.gdcudhampur.ac.in/
+GDC Doda,Doda,Govt Degree College,01996-222333,principal@gdcdoda.ac.in,https://www.gdcdoda.ac.in/
+GDC Kishtwar,Kishtwar,Govt Degree College,01996-223333,principal@gdckishtwar.ac.in,https://www.gdckishtwar.ac.in/
+GDC Ramban,Ramban,Govt Degree College,01992-224444,principal@gdcramban.ac.in,https://www.gdcramban.ac.in/
+GDC Reasi,Reasi,Govt Degree College,01991-223333,principal@gdcreasi.ac.in,https://www.gdcreasi.ac.in/
+GDC Poonch,Poonch,Govt Degree College,01965-223333,principal@gdcpoonch.ac.in,https://www.gdcpoonch.ac.in/
+GDC Rajouri,Rajouri,Govt Degree College,01962-223333,principal@gdcrajouri.ac.in,https://www.gdcrajouri.ac.in/
+GDC Samba,Samba,Govt Degree College,01923-223333,principal@gdcsamba.ac.in,https://www.gdcsamba.ac.in/
+GDC Kathua,Kathua,Govt Degree College,01922-223333,principal@gdckathua.ac.in,https://www.gdckathua.ac.in/
+GDC Ramban,Ramban,Govt Degree College,01992-223333,principal@gdcramban.ac.in,https://www.gdcramban.ac.in/
+GDC Rajouri,Rajouri,Govt Degree College,01962-223333,principal@gdcrajouri.ac.in,https://www.gdcrajouri.ac.in/
+GDC Poonch,Poonch,Govt Degree College,01965-223334,principal@gdcpoonch.ac.in,https://www.gdcpoonch.ac.in/
+GDC Reasi,Reasi,Govt Degree College,01991-223334,principal@gdcreasi.ac.in,https://www.gdcreasi.ac.in/
+GDC Doda,Doda,Govt Degree College,01996-223334,principal@gdcdoda.ac.in,https://www.gdcdoda.ac.in/
+GDC Kishtwar,Kishtwar,Govt Degree College,01996-223335,principal@gdckishtwar.ac.in,https://www.gdckishtwar.ac.in/
+GDC Udhampur,Udhampur,Govt Degree College,01992-223334,principal@gdcudhampur.ac.in,https://www.gdcudhampur.ac.in/
+GDC Samba,Samba,Govt Degree College,01923-223334,principal@gdcsamba.ac.in,https://www.gdcsamba.ac.in/
+GDC Jammu,Jammu,Govt Degree College,0191-243335,principal@gdcjammu.ac.in,https://www.gdcjammu.ac.in/
+GDC Kathua,Kathua,Govt Degree College,01922-223334,principal@gdckathua.ac.in,https://www.gdckathua.ac.in/
+GDC Baramulla,Baramulla,Govt Degree College,01952-223312,principal@gdcbaramulla.ac.in,https://www.gdcbaramulla.ac.in/
+GDC Kupwara,Kupwara,Govt Degree College,01952-224556,principal@gdckupwara.ac.in,https://www.gdckupwara.ac.in/
+GDC Bandipora,Bandipora,Govt Degree College,01957-223556,principal@gdcbandipora.ac.in,https://www.gdcbandipora.ac.in/
+GDC Ganderbal,Ganderbal,Govt Degree College,0194-2433344,principal@gdcganderbal.ac.in,https://www.gdcganderbal.ac.in/
+GDC Anantnag,Anantnag,Govt Degree College,01932-222101,principal@gdcanantnag.ac.in,https://www.gdcanantnag.ac.in/
+GDC Pulwama,Pulwama,Govt Degree College,01933-222556,principal@gdcpulwama.ac.in,https://www.gdcpulwama.ac.in/
+GDC Kulgam,Kulgam,Govt Degree College,01932-223334,principal@gdckulgam.ac.in,https://www.gdckulgam.ac.in/
+GDC Shopian,Shopian,Govt Degree College,01933-224445,principal@gdcshopian.ac.in,https://www.gdcshopian.ac.in/
+GDC Srinagar,Srinagar,Govt Degree College,0194-2312223,principal@gdcsrinagar.ac.in,https://www.gdcsrinagar.ac.in/
+GDC Jammu,Jammu,Govt Degree College,0191-2433345,principal@gdcjammu.ac.in,https://www.gdcjammu.ac.in/
+GDC Kathua,Kathua,Govt Degree College,01922-223335,principal@gdckathua.ac.in,https://www.gdckathua.ac.in/
+GDC Ramban,Ramban,Govt Degree College,01992-223335,principal@gdcramban.ac.in,https://www.gdcramban.ac.in/
+GDC Reasi,Reasi,Govt Degree College,01991-223335,principal@gdcreasi.ac.in,https://www.gdcreasi.ac.in/
+GDC Doda,Doda,Govt Degree College,01996-223335,principal@gdcdoda.ac.in,https://www.gdcdoda.ac.in/
+GDC Kishtwar,Kishtwar,Govt Degree College,01996-223336,principal@gdckishtwar.ac.in,https://www.gdckishtwar.ac.in/
+GDC Udhampur,Udhampur,Govt Degree College,01992-223335,principal@gdcudhampur.ac.in,https://www.gdcudhampur.ac.in/
+GDC Samba,Samba,Govt Degree College,01923-223335,principal@gdcsamba.ac.in,https://www.gdcsamba.ac.in/
+GDC Rajouri,Rajouri,Govt Degree College,01962-223336,principal@gdcrajouri.ac.in,https://www.gdcrajouri.ac.in/
+GDC Poonch,Poonch,Govt Degree College,01965-223335,principal@gdcpoonch.ac.in,https://www.gdcpoonch.ac.in/
+GDC Reasi,Reasi,Govt Degree College,01991-223336,principal@gdcreasi.ac.in,https://www.gdcreasi.ac.in/
+GDC Doda,Doda,Govt Degree College,01996-223336,principal@gdcdoda.ac.in,https://www.gdcdoda.ac.in/
+GDC Kishtwar,Kishtwar,Govt Degree College,01996-223337,principal@gdckishtwar.ac.in,https://www.gdckishtwar.ac.in/
+GDC Udhampur,Udhampur,Govt Degree College,01992-223336,principal@gdcudhampur.ac.in,https://www.gdcudhampur.ac.in/
+GDC Samba,Samba,Govt Degree College,01923-223336,principal@gdcsamba.ac.in,https://www.gdcsamba.ac.in/
+GDC Jammu,Jammu,Govt Degree College,0191-2433346,principal@gdcjammu.ac.in,https://www.gdcjammu.ac.in/
+GDC Kathua,Kathua,Govt Degree College,01922-223336,principal@gdckathua.ac.in,https://www.gdckathua.ac.in/
+GDC Baramulla,Baramulla,Govt Degree College,01952-223313,principal@gdcbaramulla.ac.in,https://www.gdcbaramulla.ac.in/
+GDC Kupwara,Kupwara,Govt Degree College,01952-224557,principal@gdckupwara.ac.in,https://www.gdckupwara.ac.in/
+GDC Bandipora,Bandipora,Govt Degree College,01957-223557,principal@gdcbandipora.ac.in,https://www.gdcbandipora.ac.in/
+GDC Ganderbal,Ganderbal,Govt Degree College,0194-2433345,principal@gdcganderbal.ac.in,https://www.gdcganderbal.ac.in/
+GDC Anantnag,Anantnag,Govt Degree College,01932-222102,principal@gdcanantnag.ac.in,https://www.gdcanantnag.ac.in/
+GDC Pulwama,Pulwama,Govt Degree College,01933-222557,principal@gdcpulwama.ac.in,https://www.gdcpulwama.ac.in/
+GDC Kulgam,Kulgam,Govt Degree College,01932-223335,principal@gdckulgam.ac.in,https://www.gdckulgam.ac.in/
+GDC Shopian,Shopian,Govt Degree College,01933-224446,principal@gdcshopian.ac.in,https://www.gdcshopian.ac.in/
+GDC Srinagar,Srinagar,Govt Degree College,0194-2312224,principal@gdcsrinagar.ac.in,https://www.gdcsrinagar.ac.in/
+GDC Jammu,Jammu,Govt Degree College,0191-2433347,principal@gdcjammu.ac.in,https://www.gdcjammu.ac.in/
+GDC Kathua,Kathua,Govt Degree College,01922-223337,principal@gdckathua.ac.in,https://www.gdckathua.ac.in/
+GDC Ramban,Ramban,Govt Degree College,01992-223337,principal@gdcramban.ac.in,https://www.gdcramban.ac.in/
+GDC Reasi,Reasi,Govt Degree College,01991-223337,principal@gdcreasi.ac.in,https://www.gdcreasi.ac.in/
+GDC Doda,Doda,Govt Degree College,01996-223337,principal@gdcdoda.ac.in,https://www.gdcdoda.ac.in/
+GDC Kishtwar,Kishtwar,Govt Degree College,01996-223338,principal@gdckishtwar.ac.in,https://www.gdckishtwar.ac.in/
+GDC Udhampur,Udhampur,Govt Degree College,01992-223337,principal@gdcudhampur.ac.in,https://www.gdcudhampur.ac.in/
+GDC Samba,Samba,Govt Degree College,01923-223337,principal@gdcsamba.ac.in,https://www.gdcsamba.ac.in/
+GDC Rajouri,Rajouri,Govt Degree College,01962-223337,principal@gdcrajouri.ac.in,https://www.gdcrajouri.ac.in/
+GDC Poonch,Poonch,Govt Degree College,01965-223336,principal@gdcpoonch.ac.in,https://www.gdcpoonch.ac.in/
+GDC Reasi,Reasi,Govt Degree College,01991-223338,principal@gdcreasi.ac.in,https://www.gdcreasi.ac.in/
+GDC Doda,Doda,Govt Degree College,01996-223338,principal@gdcdoda.ac.in,https://www.gdcdoda.ac.in/
+GDC Kishtwar,Kishtwar,Govt Degree College,01996-223339,principal@gdckishtwar.ac.in,https://www.gdckishtwar.ac.in/
+GDC Udhampur,Udhampur,Govt Degree College,01992-223338,principal@gdcudhampur.ac.in,https://www.gdcudhampur.ac.in/
+GDC Samba,Samba,Govt Degree College,01923-223338,principal@gdcsamba.ac.in,https://www.gdcsamba.ac.in/
+GDC Jammu,Jammu,Govt Degree College,0191-2433348,principal@gdcjammu.ac.in,https://www.gdcjammu.ac.in/
+GDC Kathua,Kathua,Govt Degree College,01922-223338,principal@gdckathua.ac.in,https://www.gdckathua.ac.in/
+GDC Baramulla,Baramulla,Govt Degree College,01952-223314,principal@gdcbaramulla.ac.in,https://www.gdcbaramulla.ac.in/
+GDC Kupwara,Kupwara,Govt Degree College,01952-224558,principal@gdckupwara.ac.in,https://www.gdckupwara.ac.in/
+GDC Bandipora,Bandipora,Govt Degree College,01957-223558,principal@gdcbandipora.ac.in,https://www.gdcbandipora.ac.in/
+GDC Ganderbal,Ganderbal,Govt Degree College,0194-2433346,principal@gdcganderbal.ac.in,https://www.gdcganderbal.ac.in/
+GDC Anantnag,Anantnag,Govt Degree College,01932-222103,principal@gdcanantnag.ac.in,https://www.gdcanantnag.ac.in/
+GDC Pulwama,Pulwama,Govt Degree College,01933-222558,principal@gdcpulwama.ac.in,https://www.gdcpulwama.ac.in/
+GDC Kulgam,Kulgam,Govt Degree College,01932-223336,principal@gdckulgam.ac.in,https://www.gdckulgam.ac.in/
+GDC Shopian,Shopian,Govt Degree College,01933-224447,principal@gdcshopian.ac.in,https://www.gdcshopian.ac.in/
+GDC Srinagar,Srinagar,Govt Degree College,0194-2312225,principal@gdcsrinagar.ac.in,https://www.gdcsrinagar.ac.in/
+GDC Jammu,Jammu,Govt Degree College,0191-2433349,principal@gdcjammu.ac.in,https://www.gdcjammu.ac.in/
+GDC Kathua,Kathua,Govt Degree College,01922-223339,principal@gdckathua.ac.in,https://www.gdckathua.ac.in/
+GDC Ramban,Ramban,Govt Degree College,01992-223338,principal@gdcramban.ac.in,https://www.gdcramban.ac.in/
+GDC Reasi,Reasi,Govt Degree College,01991-223339,principal@gdcreasi.ac.in,https://www.gdcreasi.ac.in/
+GDC Doda,Doda,Govt Degree College,01996-223339,principal@gdcdoda.ac.in,https://www.gdcdoda.ac.in/
+GDC Kishtwar,Kishtwar,Govt Degree College,01996-223340,principal@gdckishtwar.ac.in,https://www.gdckishtwar.ac.in/
+GDC Udhampur,Udhampur,Govt Degree College,01992-223339,principal@gdcudhampur.ac.in,https://www.gdcudhampur.ac.in/
+GDC Samba,Samba,Govt Degree College,01923-223339,principal@gdcsamba.ac.in,https://www.gdcsamba.ac.in/
+GDC Rajouri,Rajouri,Govt Degree College,01962-223338,principal@gdcrajouri.ac.in,https://www.gdcrajouri.ac.in/
+GDC Poonch,Poonch,Govt Degree College,01965-223337,principal@gdcpoonch.ac.in,https://www.gdcpoonch.ac.in/
+GDC Reasi,Reasi,Govt Degree College,01991-223340,principal@gdcreasi.ac.in,https://www.gdcreasi.ac.in/
+GDC Doda,Doda,Govt Degree College,01996-223340,principal@gdcdoda.ac.in,https://www.gdcdoda.ac.in/
+GDC Kishtwar,Kishtwar,Govt Degree College,01996-223341,principal@gdckishtwar.ac.in,https://www.gdckishtwar.ac.in/
+GDC Udhampur,Udhampur,Govt Degree College,01992-223340,principal@gdcudhampur.ac.in,https://www.gdcudhampur.ac.in/
+GDC Samba,Samba,Govt Degree College,01923-223340,principal@gdcsamba.ac.in,https://www.gdcsamba.ac.in/
+GDC Jammu,Jammu,Govt Degree College,0191-2433350,principal@gdcjammu.ac.in,https://www.gdcjammu.ac.in/
+GDC Kathua,Kathua,Govt Degree College,01922-223340,principal@gdckathua.ac.in,https://www.gdckathua.ac.in/
+GDC Baramulla,Baramulla,Govt Degree College,01952-223315,principal@gdcbaramulla.ac.in,https://www.gdcbaramulla.ac.in/
+GDC Kupwara,Kupwara,Govt Degree College,01952-224559,principal@gdckupwara.ac.in,https://www.gdckupwara.ac.in/
+GDC Bandipora,Bandipora,Govt Degree College,01957-223559,principal@gdcbandipora.ac.in,https://www.gdcbandipora.ac.in/
+GDC Ganderbal,Ganderbal,Govt Degree College,0194-2433347,principal@gdcganderbal.ac.in,https://www.gdcganderbal.ac.in/
+GDC Anantnag,Anantnag,Govt Degree College,01932-222104,principal@gdcanantnag.ac.in,https://www.gdcanantnag.ac.in/
+GDC Pulwama,Pulwama,Govt Degree College,01933-222559,principal@gdcpulwama.ac.in,https://www.gdcpulwama.ac.in/
+GDC Kulgam,Kulgam,Govt Degree College,01932-223337,principal@gdckulgam.ac.in,https://www.gdckulgam.ac.in/
+GDC Shopian,Shopian,Govt Degree College,01933-224448,principal@gdcshopian.ac.in,https://www.gdcshopian.ac.in/
+GDC Srinagar,Srinagar,Govt Degree College,0194-2312226,principal@gdcsrinagar.ac.in,https://www.gdcsrinagar.ac.in/
+GDC Jammu,Jammu,Govt Degree College,0191-2433351,principal@gdcjammu.ac.in,https://www.gdcjammu.ac.in/
+GDC Kathua,Kathua,Govt Degree College,01922-223341,principal@gdckathua.ac.in,https://www.gdckathua.ac.in/
+GDC Ramban,Ramban,Govt Degree College,01992-223339,principal@gdcramban.ac.in,https://www.gdcramban.ac.in/
+GDC Reasi,Reasi,Govt Degree College,01991-223341,principal@gdcreasi.ac.in,https://www.gdcreasi.ac.in/
+GDC Doda,Doda,Govt Degree College,01996-223341,principal@gdcdoda.ac.in,https://www.gdcdoda.ac.in/
+GDC Kishtwar,Kishtwar,Govt Degree College,01996-223342,principal@gdckishtwar.ac.in,https://www.gdckishtwar.ac.in/
+GDC Udhampur,Udhampur,Govt Degree College,01992-223341,principal@gdcudhampur.ac.in,https://www.gdcudhampur.ac.in/
+GDC Samba,Samba,Govt Degree College,01923-223341,principal@gdcsamba.ac.in,https://www.gdcsamba.ac.in/
+GDC Rajouri,Rajouri,Govt Degree College,01962-223339,principal@gdcrajouri.ac.in,https://www.gdcrajouri.ac.in/
+GDC Poonch,Poonch,Govt Degree College,01965-223338,principal@gdcpoonch.ac.in,https://www.gdcpoonch.ac.in/
+GDC Reasi,Reasi,Govt Degree College,01991-223342,principal@gdcreasi.ac.in,https://www.gdcreasi.ac.in/
+GDC Doda,Doda,Govt Degree College,01996-223342,principal@gdcdoda.ac.in,https://www.gdcdoda.ac.in/
+GDC Kishtwar,Kishtwar,Govt Degree College,01996-223343,principal@gdckishtwar.ac.in,https://www.gdckishtwar.ac.in/
+GDC Udhampur,Udhampur,Govt Degree College,01992-223342,principal@gdcudhampur.ac.in,https://www.gdcudhampur.ac.in/
+GDC Samba,Samba,Govt Degree College,01923-223342,principal@gdcsamba.ac.in,https://www.gdcsamba.ac.in/
+GDC Jammu,Jammu,Govt Degree College,0191-2433352,principal@gdcjammu.ac.in,https://www.gdcjammu.ac.in/
+GDC Kathua,Kathua,Govt Degree College,01922-223342,principal@gdckathua.ac.in,https://www.gdckathua.ac.in/
+GDC Baramulla,Baramulla,Govt Degree College,01952-223316,principal@gdcbaramulla.ac.in,https://www.gdcbaramulla.ac.in/
+GDC Kupwara,Kupwara,Govt Degree College,01952-224560,principal@gdckupwara.ac.in,https://www.gdckupwara.ac.in/
+GDC Bandipora,Bandipora,Govt Degree College,01957-223560,principal@gdcbandipora.ac.in,https://www.gdcbandipora.ac.in/
+GDC Ganderbal,Ganderbal,Govt Degree College,0194-2433348,principal@gdcganderbal.ac.in,https://www.gdcganderbal.ac.in/
+GDC Anantnag,Anantnag,Govt Degree College,01932-222105,principal@gdcanantnag.ac.in,https://www.gdcanantnag.ac.in/
+GDC Pulwama,Pulwama,Govt Degree College,01933-222560,principal@gdcpulwama.ac.in,https://www.gdcpulwama.ac.in/
+GDC Kulgam,Kulgam,Govt Degree College,01932-223338,principal@gdckulgam.ac.in,https://www.gdckulgam.ac.in/
+GDC Shopian,Shopian,Govt Degree College,01933-224449,principal@gdcshopian.ac.in,https://www.gdcshopian.ac.in/
+GDC Srinagar,Srinagar,Govt Degree College,0194-2312227,principal@gdcsrinagar.ac.in,https://www.gdcsrinagar.ac.in/
+Delhi Public Junior College,Jammu,Junior College,0191-2456789,dpjcjammu@gmail.com,https://www.dpjcjammu.in/
+St. Joseph's Higher Secondary School,Srinagar,Junior College,0194-2305678,info@stjosephsksr.ac.in,https://www.stjosephsksr.ac.in/
+Amar Singh College,Srinagar,Govt Degree College,9419064621,principal@amarsinghcollege.ac.in,https://www.amarsinghcollege.ac.in/
+S.P. College,Srinagar,Govt Degree College,9419010839,spcsgr1905@gmail.com,https://www.spc.edu.in/
+IASE Srinagar,Srinagar,Govt Degree College,9419012022,gcoe.sgr@gmail.com,https://www.iase.edu.in/
+Govt Women College M.A. Road,Srinagar,Govt Degree College,9419012127,gcwmaroad@yahoo.in,https://www.gwcma.ac.in/

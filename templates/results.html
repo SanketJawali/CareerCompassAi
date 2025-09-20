@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Recommendations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Top Recommended Colleges</h1>
+        <ul>
+            {% for college in recommendations %}
+            <li>
+                <strong>{{ college.college_name }}</strong> - {{ college.district }} <br>
+                Category: {{ college.category }}<br>
+                Contact: {{ college.contact_number }}<br>
+                Email: {{ college.email }}<br>
+                Website: <a href="{{ college.website }}" target="_blank">{{ college.website }}</a><br>
+            </li>
+            <hr>
+            {% endfor %}
+        </ul>
+        <a href="{{ url_for('index') }}">Back</a>
+    </div>
+</body>
+</html>

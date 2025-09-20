@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>College Recommendation System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>College Recommendation System</h1>
+        <form method="POST">
+            <label>Location:</label>
+            <input type="text" name="location" placeholder="City or State" required>
+
+            <label>Interests:</label>
+            <select name="interests" required>
+                <option value="">Select Interest</option>
+                <option value="Computer Science">Computer Science</option>
+                <option value="AI">AI</option>
+                <option value="Data Science">Data Science</option>
+                <option value="Mechanical">Mechanical</option>
+                <option value="Civil">Civil</option>
+                <option value="Biotechnology">Biotechnology</option>
+                <option value="Medical">Medical</option>
+                <option value="Arts">Arts</option>
+                <option value="Commerce">Commerce</option>
+                <option value="Law">Law</option>
+                <option value="Science">Science</option>
+            </select>
+
+            <label>Field:</label>
+            <select name="field" required>
+                <option value="">Select Field</option>
+                <option value="Engineering">Engineering</option>
+                <option value="Medical">Medical</option>
+                <option value="Arts & Humanities">Arts & Humanities</option>
+                <option value="Commerce">Commerce</option>
+                <option value="Science">Science</option>
+                <option value="Law">Law</option>
+            </select>
+
+            <button type="submit">Get Recommendations</button>
+        </form>
+    </div>
+</body>
+<script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</html>
