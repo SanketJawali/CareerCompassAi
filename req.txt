@@ -1,5 +1,7 @@
-flask
 pandas
 sentence-transformers
 torch
 dotenv
+fastapi
+uvicorn
+pydantic
