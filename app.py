@@ -22,6 +22,7 @@ app.add_middleware(
 )
 
 colleges_df = pd.read_csv("data/colleges.csv")
+colleges_locations_df = pd.read_csv("data/colleges_locations.csv")
 
 class PredictRequest(BaseModel):
     location: str
@@ -65,3 +66,25 @@ async def predict_college(data: PredictRequest):
 @app.get("/api/health")
 async def health():
     return {"status": "ok"}
+
+# Add to d:\Damodarone\SIH\college\CareerCompass\CareerCompassAi\app.py
+
+@app.get("/api/colleges")
+async def get_colleges():
+    # Merge colleges and locations on college_name
+    merged = pd.merge(colleges_df, colleges_locations_df, on="college_name", how="left")
+    colleges = merged.to_dict(orient="records")
+    return colleges
+
+@app.get("/api/college-location")
+async def college_location(name: str):
+    # Find college in locations file
+    college = colleges_locations_df[colleges_locations_df['college_name'].str.lower() == name.lower()]
+    if not college.empty:
+        row = college.iloc[0]
+        return {
+            "college_name": row["college_name"],
+            "latitude": row["latitude"],
+            "longitude": row["longitude"]
+        }
+    return {"error": "College not found"}
